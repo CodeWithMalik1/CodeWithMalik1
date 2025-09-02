@@ -9,7 +9,21 @@
   <img src="https://komarev.com/ghpvc/?username=codewithmalik1&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmalik1" /> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript & React**
+---
+
+### 👨‍💻 About Me  
+
+- 💡 Always curious about learning new technologies and building real-world projects  
+- 🔭 Exploring opportunities to contribute to **open-source projects**  
+- 🎯 Goal: To become a **Full-Stack Developer** and craft scalable web applications  
+- ⚡ Fun fact: I love solving coding challenges & improving problem-solving skills daily
+
+<p align="center">
+  <a href="https://ubiquitous-biscochitos-ad684c.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-🌍%20Visit%20My%20Portfolio-ff6f61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1e1e1e" alt="Portfolio"/>
+  </a>
+</p>
+
 - 📫 How to reach me **malikmohammed2067@gmail.com**
 
 ---
