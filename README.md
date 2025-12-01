@@ -1,8 +1,16 @@
 <!-- Master Head -->
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg" 
+       width="100%" 
+       style="border-radius: 15px; transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='scale(1.03)';" 
+       onmouseout="this.style.transform='scale(1)';" />
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Malik Mohammed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Analyst & Data Scientist 📊</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
 
 <p align="left"> 
@@ -13,13 +21,16 @@
 
 ### 👨‍💻 About Me  
 
-- 💡 Always curious about learning new technologies and building real-world projects  
-- 🔭 Exploring opportunities to contribute to **open-source projects**  
-- 🎯 Goal: To become a **Full-Stack Developer** and craft scalable web applications  
-- ⚡ Fun fact: I love solving coding challenges & improving problem-solving skills daily
+🔍 Data Analyst & Aspiring Data Scientist
+📈 Passionate about storytelling with data, ML models, dashboards & automation
+🧠 Skilled in Python, SQL, Machine Learning, Power BI, Excel & Data Pipelines
+🚀 Currently building AI + Analytics projects to solve real-world problems
+🎯 Goal: Join a top tech/data team & build scalable data-driven solutions
+📚 Always learning — ML Ops, GenAI & Advanced Statistics
+⚡ Fun fact: I automate boring tasks before doing them manually 😄
 
 <p align="center">
-  <a href="https://ubiquitous-biscochitos-ad684c.netlify.app/" target="_blank">
+  <a href="https://portfolio-new-nine-pink.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-🌍%20Visit%20My%20Portfolio-ff6f61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1e1e1e" alt="Portfolio"/>
   </a>
 </p>
@@ -45,11 +56,43 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,tailwind,js,html,css,git,github,vscode" alt="Tech Stack"/>
+
+  <!-- Skillicons (these work fully) -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,git,github,vscode" />
+  <!-- Manual Icons (Power BI, Excel, SQL, ML) -->
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60" alt="Power BI"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png" width="60" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL"/>
+
 </p>
+
+
+---
+### 📌 Featured Projects (with GIFs)
+📊 Customer Behavior Analysis — Power BI
+
+Explored 10,000+ records
+
+Built interactive Power BI dashboard
+
+Analyzed buying patterns
+
+🔗 Live Dashboard: Add Power BI link here
+🔗 Repo: https://github.com/CodeWithMalik1/Customer_behavior_Analysis
+
+---
+### 🤖 Machine Learning — Prediction Models
+
+Built Regression + Classification models
+
+Used scikit-learn, pandas, matplotlib
+
+Achieved 92% accuracy in evaluation
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmalik1&show_icons=true&locale=en&layout=compact" alt="codewithmalik1" /></p>
+### 🧹 Python Automation – Excel/CSV Cleaning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithmalik1&show_icons=true&locale=en" alt="codewithmalik1" /></p>
+Automated cleaning of 50K rows
+
+Used Pandas + Regex transformations
